@@ -90,9 +90,8 @@ We collected and processed **surface EMG** and **IMU** sensor data to analyze mo
 |------------|-------------|----------|-------------------------|
 | ![Filtered EMG Signal](https://github.com/user-attachments/assets/b921e985-b8b1-4638-bbba-1c6321f8f530)
 
-ered.png) | ![LRCN](images/lrcn_output.png) | ![App](images/app_home.png) | ![Verify](images/therapist_verify.png) |
+| ![LRCN]([images/lrcn_output.png](https://github.com/user-attachments/assets/a8d5957d-7903-4283-9bcc-5025d9180d0a)) | ![App]([images/app_home.png](https://github.com/user-attachments/assets/d7e3a503-a484-4605-99e0-1d60fdb8ebca)) | ![Verify]([images/therapist_verify.png](https://github.com/user-attachments/assets/1fab217f-8821-4a68-a454-21e7c460cbbe)) |
 
----
 
 ## 👩‍💻 Team
 
