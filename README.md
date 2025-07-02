@@ -88,7 +88,9 @@ We collected and processed **surface EMG** and **IMU** sensor data to analyze mo
 
 | EMG Signal | LRCN Output | App Demo | Therapist Verification |
 |------------|-------------|----------|-------------------------|
-| ![EMG](images/emg_filtered.png) | ![LRCN](images/lrcn_output.png) | ![App](images/app_home.png) | ![Verify](images/therapist_verify.png) |
+| ![Filtered EMG Signal](https://github.com/user-attachments/assets/b921e985-b8b1-4638-bbba-1c6321f8f530)
+
+ered.png) | ![LRCN](images/lrcn_output.png) | ![App](images/app_home.png) | ![Verify](images/therapist_verify.png) |
 
 ---
 
